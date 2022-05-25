@@ -1,0 +1,19 @@
+{
+    "contact": "Kontakt",
+    "legal": "Rechtliches",
+    "privacyPolicy": "Datenschutzerklärung",
+    "legalNotice": "Impressum",
+    "copyright": "Copyright © {currentYear} Teavelopment | Alle Rechte vorbehalten.",
+    "support": "Support",
+    "faqs": "FAQs",
+    "apps": "Apps",
+    "openSource": "Open Source",
+    "address": "Adresse",
+    "germany": "Deutschland",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "dataIsBeeingCollected": "Diese Website sammelt ein paar personenbezogene daten von ihren Nutzern.",
+    "dataProcessedForPurpose": "Personenbezogene Daten, die für die folgenden Zwecke und unter Nutzung der folgenden Dienste verarbeitet werden",
+    "hostingAndInfrastructure": "Hosting und Backend-Infrastruktur",
+    "dataByService": "Personenbezogene Daten: verschiedene Arten von Daten, wie in der Datenschutzrichtlinie des Dienstes angegeben"
+}

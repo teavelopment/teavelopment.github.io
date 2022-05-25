@@ -1,0 +1,11 @@
+{
+    "openSource": "Open Source",
+    "simpleIcons": {
+        "title": "Simple Icons",
+        "description": "Die Flutter Bibliothek für Simple Icons, welche über 1500 kostenlose SVG Icons von beliebten Marken enthält."
+    },
+    "avataaars": {
+        "title": "Avataaars",
+        "description": "Avataaars ist ein Flutter Packet das die einfache SVG Erstellung schöner personalisierter Avatare ermöglicht."
+    }
+}

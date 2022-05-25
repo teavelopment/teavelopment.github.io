@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Count Doko",
+        "faqs": [
+            {
+                "title": "Wie starte ich ein neues Spiel?",
+                "body": "In der Spieleübersicht gibt es unten links den Butten 'Spiel anlegen'. Nachdem Sie hier drauf geklickt haben, können Sie die Spieler an ihrem Tisch auswählen. Anschließend wählen Sie ihre Spieleinstellungen aus, und schon kann ihr neues Spiel beginnen."
+            },
+            {
+                "title": "Wie ändere ich die Sprache?",
+                "body": "Einstellungen > Aussehen > Text > Sprache"
+            },
+            {
+                "title": "Wie exportiere ich Daten?",
+                "body": "Es gibt mehrere Wege Daten zu exportieren. Wenn sie spezifische Spiele mit den dahinterliegenden Daten exportieren möchten, so können sie dies machen, indem Sie die Spiele im 'Spiel Überblick' markieren und über den 'Drei Punkte Button' in der App Bar entweder 'Als JSON Datei Teilen' oder 'Als JSON Datei Herunterladen' auswählen."
+            },
+            {
+                "title": "Wie importiere ich Daten?",
+                "body": "In den Einstellungen wählen Sie 'Experte' under App Komplexität. Anschließend unter 'Backup > Daten importieren' importieren sie die Datei, die Sie oder jemand anders exportiert hat."
+            }
+        ]
+    }
+]

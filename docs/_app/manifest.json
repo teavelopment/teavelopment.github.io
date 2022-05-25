@@ -1,0 +1,279 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-84930675.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-b0755815.js",
+      "_preload-helper-222d7d75.js",
+      "_paths-396f020f.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      "src/routes/__error.svelte",
+      "src/routes/faqs/__layout.svelte",
+      "src/routes/apps/countDoko/index.svelte",
+      "src/routes/apps/index.svelte",
+      "src/routes/faqs/index.svelte",
+      "src/routes/index.svelte",
+      "src/routes/legalNotice/index.svelte",
+      "src/routes/openSource/index.svelte",
+      "src/routes/privacyPolicy/index.svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-f54d10dd.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-b0755815.js",
+      "_translations-93f26012.js",
+      "_playStore-93cea94b.js",
+      "_externallinks-381e3d31.js",
+      "_sourceslinks-7f9bf5f3.js",
+      "_preload-helper-222d7d75.js",
+      "_paths-396f020f.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-60188c56.css"
+    ]
+  },
+  "src/routes/__error.svelte": {
+    "file": "pages/__error.svelte-e0ae7f23.js",
+    "src": "src/routes/__error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-b0755815.js",
+      "_sourceslinks-7f9bf5f3.js",
+      "_paths-396f020f.js"
+    ]
+  },
+  "src/routes/faqs/__layout.svelte": {
+    "file": "pages/faqs/__layout.svelte-0674bda1.js",
+    "src": "src/routes/faqs/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-b0755815.js"
+    ]
+  },
+  "src/routes/apps/countDoko/index.svelte": {
+    "file": "pages/apps/countDoko/index.svelte-40fe3ad1.js",
+    "src": "src/routes/apps/countDoko/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-b0755815.js",
+      "_externallinks-381e3d31.js"
+    ]
+  },
+  "src/routes/apps/index.svelte": {
+    "file": "pages/apps/index.svelte-2a9c051c.js",
+    "src": "src/routes/apps/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-b0755815.js",
+      "_apps-751b6ed7.js",
+      "_appCard-f7a45eb0.js",
+      "_playStore-93cea94b.js",
+      "_paths-396f020f.js",
+      "_sourceslinks-7f9bf5f3.js",
+      "_translations-93f26012.js",
+      "_preload-helper-222d7d75.js",
+      "_externallinks-381e3d31.js"
+    ]
+  },
+  "src/routes/faqs/index.svelte": {
+    "file": "pages/faqs/index.svelte-cf3ad71c.js",
+    "src": "src/routes/faqs/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-b0755815.js",
+      "_translations-93f26012.js",
+      "_sourceslinks-7f9bf5f3.js",
+      "_preload-helper-222d7d75.js",
+      "_paths-396f020f.js"
+    ],
+    "css": [
+      "assets/pages/faqs/index.svelte-7d570a04.css"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-8d4e53d3.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-b0755815.js",
+      "_openSource-9ff53b01.js",
+      "_sourceslinks-7f9bf5f3.js",
+      "_translations-93f26012.js",
+      "_apps-751b6ed7.js",
+      "_appCard-f7a45eb0.js",
+      "_playStore-93cea94b.js",
+      "_paths-396f020f.js",
+      "_externallinks-381e3d31.js",
+      "_preload-helper-222d7d75.js"
+    ]
+  },
+  "src/routes/legalNotice/index.svelte": {
+    "file": "pages/legalNotice/index.svelte-a7b21d15.js",
+    "src": "src/routes/legalNotice/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-b0755815.js",
+      "_externallinks-381e3d31.js",
+      "_translations-93f26012.js",
+      "_preload-helper-222d7d75.js"
+    ]
+  },
+  "src/routes/openSource/index.svelte": {
+    "file": "pages/openSource/index.svelte-5c8612b0.js",
+    "src": "src/routes/openSource/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-b0755815.js",
+      "_sourceslinks-7f9bf5f3.js",
+      "_translations-93f26012.js",
+      "_externallinks-381e3d31.js",
+      "_playStore-93cea94b.js",
+      "_openSource-9ff53b01.js",
+      "_paths-396f020f.js",
+      "_preload-helper-222d7d75.js",
+      "_appCard-f7a45eb0.js"
+    ]
+  },
+  "src/routes/privacyPolicy/index.svelte": {
+    "file": "pages/privacyPolicy/index.svelte-cebf5ccd.js",
+    "src": "src/routes/privacyPolicy/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-b0755815.js",
+      "_externallinks-381e3d31.js",
+      "_translations-93f26012.js",
+      "_preload-helper-222d7d75.js"
+    ]
+  },
+  "_index-b0755815.js": {
+    "file": "chunks/index-b0755815.js"
+  },
+  "_preload-helper-222d7d75.js": {
+    "file": "chunks/preload-helper-222d7d75.js",
+    "imports": [
+      "_index-b0755815.js"
+    ]
+  },
+  "_paths-396f020f.js": {
+    "file": "chunks/paths-396f020f.js"
+  },
+  "_translations-93f26012.js": {
+    "file": "chunks/translations-93f26012.js",
+    "imports": [
+      "_preload-helper-222d7d75.js",
+      "_index-b0755815.js"
+    ],
+    "dynamicImports": [
+      "src/lang/en/main.json",
+      "src/lang/en/apps.json",
+      "src/lang/en/openSource.json",
+      "src/lang/en/index.json",
+      "src/lang/de/main.json",
+      "src/lang/de/apps.json",
+      "src/lang/de/openSource.json",
+      "src/lang/de/index.json"
+    ]
+  },
+  "_playStore-93cea94b.js": {
+    "file": "chunks/playStore-93cea94b.js",
+    "imports": [
+      "_paths-396f020f.js",
+      "_index-b0755815.js",
+      "_sourceslinks-7f9bf5f3.js",
+      "_translations-93f26012.js"
+    ]
+  },
+  "_externallinks-381e3d31.js": {
+    "file": "chunks/externallinks-381e3d31.js"
+  },
+  "_sourceslinks-7f9bf5f3.js": {
+    "file": "chunks/sourceslinks-7f9bf5f3.js",
+    "imports": [
+      "_paths-396f020f.js"
+    ]
+  },
+  "_apps-751b6ed7.js": {
+    "file": "chunks/apps-751b6ed7.js",
+    "imports": [
+      "_index-b0755815.js",
+      "_appCard-f7a45eb0.js",
+      "_externallinks-381e3d31.js",
+      "_playStore-93cea94b.js",
+      "_sourceslinks-7f9bf5f3.js",
+      "_translations-93f26012.js"
+    ]
+  },
+  "_appCard-f7a45eb0.js": {
+    "file": "chunks/appCard-f7a45eb0.js",
+    "imports": [
+      "_index-b0755815.js",
+      "_playStore-93cea94b.js"
+    ]
+  },
+  "_openSource-9ff53b01.js": {
+    "file": "chunks/openSource-9ff53b01.js",
+    "imports": [
+      "_index-b0755815.js",
+      "_appCard-f7a45eb0.js",
+      "_externallinks-381e3d31.js",
+      "_sourceslinks-7f9bf5f3.js",
+      "_translations-93f26012.js"
+    ]
+  },
+  "src/lang/en/main.json": {
+    "file": "chunks/main-066a0c1a.js",
+    "src": "src/lang/en/main.json",
+    "isDynamicEntry": true
+  },
+  "src/lang/en/apps.json": {
+    "file": "chunks/apps-349637af.js",
+    "src": "src/lang/en/apps.json",
+    "isDynamicEntry": true
+  },
+  "src/lang/en/openSource.json": {
+    "file": "chunks/openSource-26d22a06.js",
+    "src": "src/lang/en/openSource.json",
+    "isDynamicEntry": true
+  },
+  "src/lang/en/index.json": {
+    "file": "chunks/index-e6f3ee9a.js",
+    "src": "src/lang/en/index.json",
+    "isDynamicEntry": true
+  },
+  "src/lang/de/main.json": {
+    "file": "chunks/main-db1c403f.js",
+    "src": "src/lang/de/main.json",
+    "isDynamicEntry": true
+  },
+  "src/lang/de/apps.json": {
+    "file": "chunks/apps-56300e2c.js",
+    "src": "src/lang/de/apps.json",
+    "isDynamicEntry": true
+  },
+  "src/lang/de/openSource.json": {
+    "file": "chunks/openSource-76d87b4f.js",
+    "src": "src/lang/de/openSource.json",
+    "isDynamicEntry": true
+  },
+  "src/lang/de/index.json": {
+    "file": "chunks/index-d7e24a15.js",
+    "src": "src/lang/de/index.json",
+    "isDynamicEntry": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "openSource": "Open Source",
+    "simpleIcons": {
+        "title": "Simple Icons",
+        "description": "A Flutter package for Simple Icons, which provides over 1500 Free SVG icons for popular brands."
+    },
+    "avataaars": {
+        "title": "Avataaars",
+        "description": "Avataaars is a Flutter package that provides Avataaar classes which enable an easy svg generation of beautiful personal avatars."
+    }
+}

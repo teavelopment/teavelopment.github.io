@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Count Doko",
+        "faqs": [
+            {
+                "title": "How to create a new game?",
+                "body": "In the game overview click the bottom right button which says 'Add Game'. Select your players and afterwards your game settings. Easy as that your new game can start."
+            },
+            {
+                "title": "How do I change the language?",
+                "body": "Settings > Appearance > Text > Language"
+            },
+            {
+                "title": "How do I export data?",
+                "body": "There are multiple ways to export data. If you just want to export specific games with the underlaying data, you can do so by marking the games in the 'Game Overview', hit the 'Three Point Button' in the App Bar and either select 'Share as JSON File' or 'Download as JSON File'. If you want to export more (specific) data, you can do so under Settings > Backup > Export data."
+            },
+            {
+                "title": "How do I import data?",
+                "body": "In the settings select 'Expert' as the App Complexity. Then unter 'Backup > Import Data' import the file you or a friend exported."
+            }
+        ]
+    }
+]

@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Berkshire Swash';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Berkshire Swash'), local('Berkshire-Swash'),
+		url('/fonts/BerkshireSwash-Regular.ttf') format('truetype');
+}

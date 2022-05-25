@@ -1,0 +1,1 @@
+import{S as o,i as s,s as n}from"../../../chunks/index-b0755815.js";import{E as e}from"../../../chunks/externallinks-381e3d31.js";async function u(){return{status:302,redirect:e.playStoreCountDoko}}class i extends o{constructor(t){super(),s(this,t,null,null,n,{})}}export{i as default,u as load};

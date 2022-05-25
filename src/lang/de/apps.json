@@ -1,0 +1,11 @@
+{
+    "finelyCraftedApps": "Erlebe unsere fein ausgearbeiteten Apps",
+    "countDoko": {
+        "title": "Count Doko",
+        "description": "Count Doko erlaubt das komfortable Aufschreiben deiner Doppelkopf Spiele."
+    },
+    "vaccinationBot": {
+        "title": "Vaccination Bot",
+        "description": "Eine Flutter App die die Verfügbarkeit von Terminen bei der Covid19 Website Niedersachsens überprüft."
+    }
+}

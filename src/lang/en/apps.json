@@ -1,0 +1,11 @@
+{
+    "finelyCraftedApps": "Experience our finely crafted Apps",
+    "countDoko": {
+        "title": "Count Doko",
+        "description": "Count Doko allows to comfortably write down your Doppelkopf games."
+    },
+    "vaccinationBot": {
+        "title": "Vaccination Bot",
+        "description": "A Flutter app which watches the state of the lower saxony covid19 website"
+    }
+}

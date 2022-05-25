@@ -1,0 +1,19 @@
+{
+    "contact": "Contact",
+    "legal": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "legalNotice": "Legal Notice",
+    "copyright": "Copyright © {currentYear} Teavelopment | All rights reserved.",
+    "support": "Support",
+    "faqs": "FAQs",
+    "apps": "Apps",
+    "openSource": "Open Source",
+    "address": "Address",
+    "germany": "Germany",
+    "phone": "Phone",
+    "email": "E-Mail",
+    "dataIsBeeingCollected": "This Application collects some Personal Data from its Users.",
+    "dataProcessedForPurpose": "Personal Data processed for the following purposes and using the following services",
+    "hostingAndInfrastructure": "Hosting and backend infrastructure",
+    "dataByService": "Personal Data: various types of Data as specified in the privacy policy of the service"
+}
