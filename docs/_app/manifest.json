@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-84930675.js",
+    "file": "start-b83f39a3.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -22,14 +22,14 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-f54d10dd.js",
+    "file": "pages/__layout.svelte-60b2e821.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-b0755815.js",
       "_translations-93f26012.js",
-      "_playStore-93cea94b.js",
+      "_playStore-7b809b04.js",
       "_externallinks-381e3d31.js",
       "_sourceslinks-7f9bf5f3.js",
       "_preload-helper-222d7d75.js",
@@ -70,15 +70,15 @@
     ]
   },
   "src/routes/apps/index.svelte": {
-    "file": "pages/apps/index.svelte-2a9c051c.js",
+    "file": "pages/apps/index.svelte-570a2d45.js",
     "src": "src/routes/apps/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-b0755815.js",
-      "_apps-751b6ed7.js",
-      "_appCard-f7a45eb0.js",
-      "_playStore-93cea94b.js",
+      "_apps-2f624b4e.js",
+      "_appCard-07997256.js",
+      "_playStore-7b809b04.js",
       "_paths-396f020f.js",
       "_sourceslinks-7f9bf5f3.js",
       "_translations-93f26012.js",
@@ -103,18 +103,18 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-8d4e53d3.js",
+    "file": "pages/index.svelte-dab0a0d2.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-b0755815.js",
-      "_openSource-9ff53b01.js",
+      "_openSource-5820ced5.js",
       "_sourceslinks-7f9bf5f3.js",
       "_translations-93f26012.js",
-      "_apps-751b6ed7.js",
-      "_appCard-f7a45eb0.js",
-      "_playStore-93cea94b.js",
+      "_apps-2f624b4e.js",
+      "_appCard-07997256.js",
+      "_playStore-7b809b04.js",
       "_paths-396f020f.js",
       "_externallinks-381e3d31.js",
       "_preload-helper-222d7d75.js"
@@ -133,7 +133,7 @@
     ]
   },
   "src/routes/openSource/index.svelte": {
-    "file": "pages/openSource/index.svelte-5c8612b0.js",
+    "file": "pages/openSource/index.svelte-1c6bda57.js",
     "src": "src/routes/openSource/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -142,11 +142,11 @@
       "_sourceslinks-7f9bf5f3.js",
       "_translations-93f26012.js",
       "_externallinks-381e3d31.js",
-      "_playStore-93cea94b.js",
-      "_openSource-9ff53b01.js",
+      "_playStore-7b809b04.js",
+      "_openSource-5820ced5.js",
       "_paths-396f020f.js",
       "_preload-helper-222d7d75.js",
-      "_appCard-f7a45eb0.js"
+      "_appCard-07997256.js"
     ]
   },
   "src/routes/privacyPolicy/index.svelte": {
@@ -190,8 +190,8 @@
       "src/lang/de/index.json"
     ]
   },
-  "_playStore-93cea94b.js": {
-    "file": "chunks/playStore-93cea94b.js",
+  "_playStore-7b809b04.js": {
+    "file": "chunks/playStore-7b809b04.js",
     "imports": [
       "_paths-396f020f.js",
       "_index-b0755815.js",
@@ -208,29 +208,29 @@
       "_paths-396f020f.js"
     ]
   },
-  "_apps-751b6ed7.js": {
-    "file": "chunks/apps-751b6ed7.js",
+  "_apps-2f624b4e.js": {
+    "file": "chunks/apps-2f624b4e.js",
     "imports": [
       "_index-b0755815.js",
-      "_appCard-f7a45eb0.js",
+      "_appCard-07997256.js",
       "_externallinks-381e3d31.js",
-      "_playStore-93cea94b.js",
+      "_playStore-7b809b04.js",
       "_sourceslinks-7f9bf5f3.js",
       "_translations-93f26012.js"
     ]
   },
-  "_appCard-f7a45eb0.js": {
-    "file": "chunks/appCard-f7a45eb0.js",
+  "_appCard-07997256.js": {
+    "file": "chunks/appCard-07997256.js",
     "imports": [
       "_index-b0755815.js",
-      "_playStore-93cea94b.js"
+      "_playStore-7b809b04.js"
     ]
   },
-  "_openSource-9ff53b01.js": {
-    "file": "chunks/openSource-9ff53b01.js",
+  "_openSource-5820ced5.js": {
+    "file": "chunks/openSource-5820ced5.js",
     "imports": [
       "_index-b0755815.js",
-      "_appCard-f7a45eb0.js",
+      "_appCard-07997256.js",
       "_externallinks-381e3d31.js",
       "_sourceslinks-7f9bf5f3.js",
       "_translations-93f26012.js"
