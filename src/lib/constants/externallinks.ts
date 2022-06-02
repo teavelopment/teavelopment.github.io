@@ -2,6 +2,7 @@ export default abstract class ExternalLinks {
 	static playStoreCountDoko =
 		'https://play.google.com/store/apps/details?id=com.teavelopment.doko_notation';
 	static playStoreTeavelopment = 'https://play.google.com/store/apps/dev?id=8786851917739034448';
+	static appleStoreCountDoko = 'https://apps.apple.com/app/count-doko/id1620886901';
 	static pubDevSimpleIcons = 'https://pub.dev/packages/simple_icons';
 	static pubDevAvataaars = 'https://pub.dev/packages/avataaars';
 	static email = 'mailto:contact@teavelopment.com';

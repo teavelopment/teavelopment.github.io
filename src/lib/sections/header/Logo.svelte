@@ -1,5 +1,6 @@
 <script>
 	import InternalLinks from '$lib/constants/internallinks';
+	import SourcesLinks from '$lib/constants/sourceslinks';
 
 	export let onClickDrawer = false;
 
@@ -10,118 +11,7 @@
 
 <a href={InternalLinks.home} on:click={onClickDrawer ? closeDrawer : null}>
 	<div class="flex flex-row flex-nowrap items-center gap-x-2.5">
-		<svg
-			id="svg5"
-			width="50"
-			height="50"
-			version="1.1"
-			viewBox="0 0 135.47 135.47"
-			xmlns="http://www.w3.org/2000/svg"
-		>
-			<g id="layer1" transform="translate(-1.4156e-5 2.5966e-5)" display="none" fill="#1a1a1a">
-				<rect
-					id="rect61"
-					x="16.319"
-					y="9.5717"
-					width="135.47"
-					height="135.47"
-					display="none"
-					stroke-width=".26458"
-				/>
-				<rect
-					id="rect61-3"
-					x="1.4156e-5"
-					y="-2.5966e-5"
-					width="135.47"
-					height="135.47"
-					display="inline"
-					stroke-width=".26458"
-				/>
-				<ellipse
-					id="path12990"
-					transform="translate(1.4156e-5 -2.5966e-5)"
-					cx="67.733"
-					cy="67.733"
-					rx="67.733"
-					ry="67.733"
-					display="none"
-					opacity=".5"
-					stroke-width=".29797"
-				/>
-			</g>
-			<g id="logo" transform="matrix(25.583 0 0 25.583 -733.1 -1193)" fill="#ffffff">
-				<g id="layer2">
-					<g id="g23789" font-size="4.564px" stroke-width=".38033">
-						<text id="left_wall" x="28.459366" y="50.458733" xml:space="preserve">
-							<tspan
-								id="tspan1404"
-								x="28.459366"
-								y="50.458733"
-								font-family="FreeSans"
-								stroke-width=".38033"
-								>{'{'}
-							</tspan>
-						</text>
-						<text id="right_wall" x="31.81081" y="50.458733" xml:space="preserve">
-							<tspan
-								id="tspan1404-9"
-								x="31.81081"
-								y="50.458733"
-								font-family="FreeSans"
-								stroke-width=".38033"
-							>
-								{'}'}</tspan
-							>
-						</text>
-					</g>
-					<g
-						id="layer9"
-						display="none"
-						font-family="FreeSans"
-						font-size="2.9283px"
-						stroke-width=".24403"
-					>
-						<text id="text15365" x="30.022728" y="51.436375" display="inline" xml:space="preserve">
-							<tspan id="tspan15363" x="30.022728" y="51.436375" stroke-width=".24403">.</tspan>
-						</text>
-						<text
-							id="text15365-3"
-							x="30.508455"
-							y="51.436375"
-							display="inline"
-							xml:space="preserve"
-						>
-							<tspan id="tspan15363-7" x="30.508455" y="51.436375" stroke-width=".24403">.</tspan>
-						</text>
-						<text
-							id="text15365-0"
-							x="30.994183"
-							y="51.436375"
-							display="inline"
-							xml:space="preserve"
-						>
-							<tspan id="tspan15363-2" x="30.994183" y="51.436375" stroke-width=".24403">.</tspan>
-						</text>
-					</g>
-				</g>
-				<path
-					id="handle"
-					d="m32.968 48.059v0.35605l0.05426-0.0016c0.32328-0.0091 0.58343 0.244 0.58343 0.56741v0.55087c0 0.32341-0.26014 0.59086-0.58343 0.59996l-0.05426 0.0016v0.36639h0.15348c0.45938 0 0.82941-0.37002 0.82941-0.82941v-0.78186c0-0.45939-0.37002-0.82941-0.82941-0.82941z"
-					stroke-width=".44088"
-				/>
-				<ellipse id="hole" cx="30.877" cy="47.792" rx="1.194" ry=".17955" stroke-width=".27199" />
-				<path
-					id="teabag"
-					d="m31.296 48.655c-0.0091 2.5e-5 -0.01795 4.2e-4 -0.02635 5.17e-4 -0.03734 4.3e-4 -0.06611 0.0017-0.07183 0.0041-0.01798 0.0078-0.11622 0.08814-0.13281 0.12196-0.01659 0.03381-0.02768 0.47668 0 0.50436 0.01375 0.01375 0.14595 0.01884 0.27802 0.01809 0.13207 7.5e-4 0.26427-0.0043 0.27802-0.01809 0.02768-0.02768 0.01659-0.47055 0-0.50436-0.01659-0.03382-0.11483-0.11416-0.13281-0.12196-0.0092-0.0039-0.07719-0.0048-0.14521-0.0041-0.01594-1.64e-4 -0.03185-5.58e-4 -0.04702-5.17e-4zm0.04702 0.06821a0.05 0.05 0 0 1 0.05013 0.04961 0.05 0.05 0 0 1-0.05013 0.05013 0.05 0.05 0 0 1-0.04961-0.05013 0.05 0.05 0 0 1 0.04961-0.04961z"
-					stroke-width=".20238"
-				/>
-				<path
-					id="rect26666"
-					d="m31.309 47.953v0.71727h0.06822v-0.71727h-0.04548z"
-					stroke-width=".37418"
-				/>
-			</g>
-		</svg>
+		<img src={SourcesLinks.logoTeavelopmentLogo} width="50" height="50" alt="Logo" />
 
 		<p id="teavelopmentText">Teavelopment</p>
 	</div>
@@ -131,9 +21,5 @@
 	#teavelopmentText {
 		font-family: Berkshire Swash, Arial, Geneva, Helvetica, sans-serif;
 		font-size: x-large;
-	}
-
-	#logo {
-		fill: --bg-base-content;
 	}
 </style>

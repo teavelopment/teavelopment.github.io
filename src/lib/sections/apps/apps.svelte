@@ -15,6 +15,7 @@
 			description={$t('apps.countDoko.description')}
 			topLink={InternalLinks.countDoko}
 			playStoreUrl={ExternalLinks.playStoreCountDoko}
+			appleStoreUrl={ExternalLinks.appleStoreCountDoko}
 		/>
 		<AppCard
 			title={$t('apps.vaccinationBot.title')}

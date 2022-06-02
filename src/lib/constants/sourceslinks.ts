@@ -6,7 +6,8 @@ export default abstract class SourcesLinks {
 	static playStore_bk_de = base + '/svg/store/de/play_store_bk.svg';
 	static playStore_bk_en = base + '/svg/store/en/play_store_bk.svg';
 
-	static logoTeavelopment = base + '/svg/logo/teavelopment_poster.svg';
+	static logoTeavelopmentLogo = base + '/svg/logo/teavelopment_logo.svg';
+	static logoTeavelopmentPoster = base + '/svg/logo/teavelopment_poster.svg';
 	static logoCountDoko = base + '/svg/logo/count_doko_rounded.svg';
 	static logoVaccinationBot = base + '/svg/logo/vaccination-bot_rounded.svg';
 	static logoSimpleIcons = base + '/svg/logo/simpleicons.svg';

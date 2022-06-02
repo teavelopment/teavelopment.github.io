@@ -10,7 +10,7 @@
 	<a href={InternalLinks.home}>
 		<img
 			class="object-scale-down max-w-xs shrink"
-			src={SourcesLinks.logoTeavelopment}
+			src={SourcesLinks.logoTeavelopmentPoster}
 			alt="Teavelopment Poster"
 		/>
 	</a>
